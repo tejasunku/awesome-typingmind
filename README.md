@@ -17,7 +17,7 @@ List of open-source [TypingMind extensions](https://docs.typingmind.com/typing-m
 - [Export chats to markdown in a zip file](https://gist.github.com/lzilioli/a8298c8622a69768cec9f872c6bb128c) - by idealparadox
 - [Automatically expose MCP tools as plugins](https://github.com/iamjackg/typingmind-mcp-extension) - by iamjackg
 - [💬 Leave comments on selected text](https://github.com/brzvsk/typingmind-extension-quote) - by brzvsk
-- [Enhance the reliability and reasoning performance of advanced models configured through TypingMind’s custom OpenAI-compatible model settings.] (https://github.com/tejasunku/typingmind-reasoning-support/tree/main) by Teja Sunku
+- [Enhance the reliability and reasoning performance of advanced models configured through TypingMind’s custom OpenAI-compatible model settings.](https://github.com/tejasunku/typingmind-reasoning-support/tree/main) - by Teja Sunku
 
 ## Plugins
 
